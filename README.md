@@ -1,4 +1,4 @@
-# DeepLearning.AI TensorFlow Developer Professional Certificate : Convolutional Neural Network in TensorFlow
+# DeepLearning.AI TensorFlow Developer Professional Certificate Course 2 : Convolutional Neural Network in TensorFlow
 ![](https://github.com/Lim-Calculus/Convolutional-Neural-Networks-in-TensorFlow/blob/main/Certificate/Convolutional%20Neural%20Network%20in%20TensorFlow%20Completion%20Certificate%20(Lim%20Jing%20Bin)%20.JPG)
 My solutions to Convolutional Neural Networks in TensorFlow (DeepLearning.AI TensorFlow Developer Professional Certificate))
 ## Week 1 
